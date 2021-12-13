@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my GitHub account. Feel free to check out my projects.</br>
+I'm currently working on adding some more. So stay tuned! 👍
+  
 <!--
 **SButterbluemchen/SButterbluemchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
